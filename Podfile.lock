@@ -1,0 +1,15 @@
+PODS:
+  - MarqueeLabel/Swift (3.0.1)
+  - SwiftGifOrigin (1.6.1)
+
+DEPENDENCIES:
+  - MarqueeLabel/Swift (= 3.0.1)
+  - SwiftGifOrigin (= 1.6.1)
+
+SPEC CHECKSUMS:
+  MarqueeLabel: 80ba85d2b76a9f5fa6c13de337db80bcd94feb1d
+  SwiftGifOrigin: d6679d3ebe9df2e049a84bc52582635107b581f6
+
+PODFILE CHECKSUM: 4d9e12f981a157bfd0440d8aaf2ad7b2ef6472ac
+
+COCOAPODS: 1.1.1
